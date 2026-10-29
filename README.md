@@ -44,6 +44,7 @@ This project focuses on analyzing inventory data using Microsoft Power BI. The d
 - `udemy BI project.pbix` – Power BI dashboard.
 - `Test+Environment+Inventory+Dataset.csv` – Inventory data.
 - `Products.csv` – Product details.
+- ``
+- ``
 
-## Author
-**Your Name**
+
